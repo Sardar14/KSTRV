@@ -13,7 +13,7 @@
 - Ensure your data pipeline preserves the normalized Unicode; avoid unintended re-normalization.
 
 ### Links
-- Dataset record (concept DOI): https://doi.org/10.5281/zenodo.15038953
+- Dataset record (concept DOI): <a href="https://zenodo.org/records/17071103" target="_blank">https://doi.org/10.5281/zenodo.15038953</a>
 - Descriptive article (Data in Brief, 2025): https://doi.org/10.1016/j.dib.2025.111648
 
 ---
